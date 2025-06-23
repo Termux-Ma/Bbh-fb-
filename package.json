@@ -1,0 +1,12 @@
+{
+  "name": "bbh-fb-auto-reply-bot",
+  "version": "1.0.0",
+  "description": "Facebook Auto Reply Bot by Arish Ahmed Tushar",
+  "main": "bot.js",
+  "dependencies": {
+    "puppeteer": "^20.7.4"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
